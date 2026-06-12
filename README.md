@@ -17,8 +17,7 @@ survey_results_schema.csv
 6. Analysis of coding learning paths
 7. Geographic analysis of Python developers' compensation
 8. Analysis of education of the highest-paid specialists
-9. Analysis of Python popularity by age groups
-10. Industry analysis among highly paid remote workers
+
 
 
 
